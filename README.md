@@ -1,2 +1,2 @@
 # CryptoVerse
-a static Frontend crypto wallet Dashboard using react and Chakra UI
+a static Frontend crypto wallet Dashboard using react and Chakra UI component library
